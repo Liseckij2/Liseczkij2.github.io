@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Liseczkij2.github.io/static/css/main.caaa38b8.css",
+    "main.js": "/Liseczkij2.github.io/static/js/main.37ede11a.js",
+    "static/js/787.dc9ee2bf.chunk.js": "/Liseczkij2.github.io/static/js/787.dc9ee2bf.chunk.js",
+    "static/media/Inconsolata-Black.ttf": "/Liseczkij2.github.io/static/media/Inconsolata-Black.6b47ffcb29daa977c9a6.ttf",
+    "index.html": "/Liseczkij2.github.io/index.html",
+    "main.caaa38b8.css.map": "/Liseczkij2.github.io/static/css/main.caaa38b8.css.map",
+    "main.37ede11a.js.map": "/Liseczkij2.github.io/static/js/main.37ede11a.js.map",
+    "787.dc9ee2bf.chunk.js.map": "/Liseczkij2.github.io/static/js/787.dc9ee2bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caaa38b8.css",
+    "static/js/main.37ede11a.js"
+  ]
+}
