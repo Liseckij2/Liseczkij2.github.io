@@ -1,3 +1,6 @@
 [submodule "dist"]
     path = dist
     url = https://github.com/Liseckij2/Liseczkij2.github.io.git
+[submodule "Liseczkij2.github.io"]
+	path = Liseczkij2.github.io
+	url = https://github.com/Liseckij2/Liseczkij2.github.io.git
