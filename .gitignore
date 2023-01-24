@@ -15,7 +15,8 @@
 
 
 # production
-workspace.xml
+.idea/workspace.xml
+
 
 # misc
 .DS_Store
