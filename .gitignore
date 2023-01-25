@@ -16,6 +16,7 @@
 
 # production
 <<<<<<< HEAD
+.idea
 .idea/workspace.xml
 =======
 >>>>>>> gh-pages
