@@ -15,7 +15,10 @@
 
 
 # production
+<<<<<<< HEAD
 .idea/workspace.xml
+=======
+>>>>>>> gh-pages
 
 
 # misc
@@ -27,4 +30,8 @@
 
 npm-debug.log*
 yarn-debug.log*
+<<<<<<< HEAD
 yarn-error.log*
+=======
+yarn-error.log*
+>>>>>>> gh-pages
