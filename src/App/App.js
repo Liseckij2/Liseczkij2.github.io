@@ -5,8 +5,6 @@ import '../assets/fonts/Inconsolata-Black.ttf'
 import './App.css'
 
 
-
-
 function App() {
     return  (
         <div className='container-page'>
