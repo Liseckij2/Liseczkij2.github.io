@@ -8,8 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4c0b2c6-edf7-4306-95c6-8d1e9685d7d5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +81,8 @@
       <workItem from="1674750189841" duration="44000" />
       <workItem from="1674803879139" duration="3125000" />
       <workItem from="1674841215852" duration="1573000" />
+      <workItem from="1674849693945" duration="1173000" />
+      <workItem from="1674897722670" duration="327000" />
     </task>
     <task id="LOCAL-00001" summary="'Commit'">
       <created>1674388230430</created>
